@@ -1,7 +1,2 @@
 ﻿  C ++ zadanie 10.cpp
-D:\C ++ zadanie 10\C ++ zadanie 10\C ++ zadanie 10.cpp(8,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\C ++ zadanie 10\C ++ zadanie 10\C ++ zadanie 10.cpp(16,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\C ++ zadanie 10\C ++ zadanie 10\C ++ zadanie 10.cpp(30,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\C ++ zadanie 10\C ++ zadanie 10\C ++ zadanie 10.cpp(44,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\C ++ zadanie 10\C ++ zadanie 10\C ++ zadanie 10.cpp(46,51): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   C ++ zadanie 10.vcxproj -> D:\C ++ zadanie 10\x64\Debug\C ++ zadanie 10.exe
